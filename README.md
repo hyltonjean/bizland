@@ -1,2 +1,2 @@
 # bizland
-A beautiful business website template
+A beautiful business website template mad ewith materialize CSS.
